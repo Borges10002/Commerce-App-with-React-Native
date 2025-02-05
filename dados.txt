@@ -1,0 +1,7 @@
+# resetar projeto
+npm run reset-project
+
+# nativewind
+npx expo install nativewind tailwindcss react-native-reanimated react-native-safe-area-context
+npx pod-install
+npx tailwindcss init
